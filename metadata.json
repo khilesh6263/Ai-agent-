@@ -1,0 +1,6 @@
+{
+  "name": "CallAgent",
+  "description": "AI voice call attendant that automatically answers incoming calls, greets callers, checks availability, answers FAQs, takes messages, and redirects urgent calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

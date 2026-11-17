@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CallAgent</string>
+    <string name="nav_agent">Agent</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_faqs">FAQs</string>
+    <string name="nav_routing">Routing</string>
+
+    <string name="status_shield_active">AI Call Shield Active</string>
+    <string name="status_shield_paused">AI Call Shield Paused</string>
+    <string name="action_test_call">Simulate Incoming Call</string>
+    <string name="action_grant_permissions">Grant Call &amp; Mic Permissions</string>
+    <string name="action_enable_screening">Enable Call Screening Role</string>
+
+    <string name="notification_channel_name">AI Call Assistant</string>
+    <string name="notification_channel_desc">Active incoming call handling and caller message alerts</string>
+    <string name="notification_active_call_title">AI Agent Handling Call</string>
+    <string name="notification_active_call_body">Speaking with caller and capturing message</string>
+    <string name="notification_end_call">End AI Session</string>
+
+    <string name="error_ai_timeout">AI response timed out. Please check your connection and try again.</string>
+    <string name="error_mic_permission">Microphone permission is required for live voice conversation.</string>
+</resources>
