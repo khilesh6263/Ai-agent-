@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351906029765",
+    "project_id": "ai-call-agent-ec261",
+    "storage_bucket": "ai-call-agent-ec261.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351906029765:android:0c5a8a2cf42564e86090ac",
+        "android_client_info": {
+          "package_name": "com.aistudio.callagent.vnkxpw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEN4wvCUs__OJleFtkUfpmCZhcy4lodM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
